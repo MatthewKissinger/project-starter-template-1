@@ -1,0 +1,23 @@
+{
+  "name": "project-starter-template-1",
+  "version": "1.0.0",
+  "description": "basic project starter template for web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewKissinger/project-starter-template-1.git"
+  },
+  "keywords": [
+    "template",
+    "starter"
+  ],
+  "author": "Matt Kissinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewKissinger/project-starter-template-1/issues"
+  },
+  "homepage": "https://github.com/MatthewKissinger/project-starter-template-1#readme"
+}
